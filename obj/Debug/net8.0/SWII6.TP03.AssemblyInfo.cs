@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SWII6.TP03")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f733527e8a489bec7aae8a6abacef159e9891443")]
 [assembly: System.Reflection.AssemblyProductAttribute("SWII6.TP03")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SWII6.TP03")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

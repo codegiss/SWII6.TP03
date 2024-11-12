@@ -1,0 +1,17 @@
+﻿@page
+@model SWII6.TP03.Models.Produtos
+
+@{
+    ViewData["Title"] = "Detalhes do Produto";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<div>
+    <h3>@Model.Nome</h3>
+    <p><strong>Descrição:</strong> @Model.Descricao</p>
+    <p><strong>Preço:</strong> @Model.Preco.ToString("C")</p>
+    <p><strong>Quantidade em Estoque:</strong> @Model.QuantidadeEmEstoque</p>
+</div>
+
+<a href="@Url.Page("Index")">Voltar</a>

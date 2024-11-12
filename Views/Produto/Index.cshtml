@@ -1,4 +1,5 @@
-﻿@model IEnumerable<SWII6.TP03.Models.Produto>
+﻿@page
+@model IEnumerable<SWII6.TP03.Models.Produtos>
 
 @*
     For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
@@ -7,13 +8,17 @@
     ViewData["Title"] = "Lista de Produtos";
 }
 
+<h1>@ViewData["Title"]</h1>
+
+<a href="@Url.Page("Create")" class="btn btn-primary">Adicionar Novo Produto</a>
+
 <table class="table">
     <thead>
         <tr>
             <th>Nome</th>
+            <th>Descrição</th>
             <th>Preço</th>
             <th>Quantidade em Estoque</th>
-            <th>Ações</th>
         </tr>
     </thead>
     <tbody>

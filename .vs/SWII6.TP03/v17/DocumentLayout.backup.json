@@ -3,36 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Giselle\\Programming\\IFSP\\SWII6.TP03\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3EC3361D-6253-4A5F-9911-FE1374137F5C}|SWII6.TP03.csproj|c:\\users\\giselle\\programming\\ifsp\\swii6.tp03\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3EC3361D-6253-4A5F-9911-FE1374137F5C}|SWII6.TP03.csproj|solutionrelative:controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3EC3361D-6253-4A5F-9911-FE1374137F5C}|SWII6.TP03.csproj|c:\\users\\giselle\\programming\\ifsp\\swii6.tp03\\views\\produto\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EC3361D-6253-4A5F-9911-FE1374137F5C}|SWII6.TP03.csproj|solutionrelative:views\\produto\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EC3361D-6253-4A5F-9911-FE1374137F5C}|SWII6.TP03.csproj|c:\\users\\giselle\\programming\\ifsp\\swii6.tp03\\views\\produto\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3EC3361D-6253-4A5F-9911-FE1374137F5C}|SWII6.TP03.csproj|solutionrelative:views\\produto\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3EC3361D-6253-4A5F-9911-FE1374137F5C}|SWII6.TP03.csproj|c:\\users\\giselle\\programming\\ifsp\\swii6.tp03\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EC3361D-6253-4A5F-9911-FE1374137F5C}|SWII6.TP03.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3EC3361D-6253-4A5F-9911-FE1374137F5C}|SWII6.TP03.csproj|c:\\users\\giselle\\programming\\ifsp\\swii6.tp03\\views\\produto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3EC3361D-6253-4A5F-9911-FE1374137F5C}|SWII6.TP03.csproj|solutionrelative:views\\produto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EC3361D-6253-4A5F-9911-FE1374137F5C}|SWII6.TP03.csproj|c:\\users\\giselle\\programming\\ifsp\\swii6.tp03\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3EC3361D-6253-4A5F-9911-FE1374137F5C}|SWII6.TP03.csproj|solutionrelative:models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3EC3361D-6253-4A5F-9911-FE1374137F5C}|SWII6.TP03.csproj|c:\\users\\giselle\\programming\\ifsp\\swii6.tp03\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EC3361D-6253-4A5F-9911-FE1374137F5C}|SWII6.TP03.csproj|solutionrelative:controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EC3361D-6253-4A5F-9911-FE1374137F5C}|SWII6.TP03.csproj|c:\\users\\giselle\\programming\\ifsp\\swii6.tp03\\views\\produto\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3EC3361D-6253-4A5F-9911-FE1374137F5C}|SWII6.TP03.csproj|solutionrelative:views\\produto\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3EC3361D-6253-4A5F-9911-FE1374137F5C}|SWII6.TP03.csproj|c:\\users\\giselle\\programming\\ifsp\\swii6.tp03\\migrations\\20241112210653_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EC3361D-6253-4A5F-9911-FE1374137F5C}|SWII6.TP03.csproj|solutionrelative:migrations\\20241112210653_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EC3361D-6253-4A5F-9911-FE1374137F5C}|SWII6.TP03.csproj|c:\\users\\giselle\\programming\\ifsp\\swii6.tp03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3EC3361D-6253-4A5F-9911-FE1374137F5C}|SWII6.TP03.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3EC3361D-6253-4A5F-9911-FE1374137F5C}|SWII6.TP03.csproj|c:\\users\\giselle\\programming\\ifsp\\swii6.tp03\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3EC3361D-6253-4A5F-9911-FE1374137F5C}|SWII6.TP03.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3EC3361D-6253-4A5F-9911-FE1374137F5C}|SWII6.TP03.csproj|c:\\users\\giselle\\programming\\ifsp\\swii6.tp03\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3EC3361D-6253-4A5F-9911-FE1374137F5C}|SWII6.TP03.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3EC3361D-6253-4A5F-9911-FE1374137F5C}|SWII6.TP03.csproj|c:\\users\\giselle\\programming\\ifsp\\swii6.tp03\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EC3361D-6253-4A5F-9911-FE1374137F5C}|SWII6.TP03.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,32 +34,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Giselle\\Programming\\IFSP\\SWII6.TP03\\Views\\Produto\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Produto\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Giselle\\Programming\\IFSP\\SWII6.TP03\\Views\\Produto\\Edit.cshtml",
-              "RelativeToolTip": "Views\\Produto\\Edit.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACUAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-12T17:19:21.522Z",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Giselle\\Programming\\IFSP\\SWII6.TP03\\Views\\Produto\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Views\\Produto\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\Giselle\\Programming\\IFSP\\SWII6.TP03\\Views\\Produto\\Details.cshtml.cs",
+              "RelativeToolTip": "Views\\Produto\\Details.cshtml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAawBQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T21:25:06.89Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Giselle\\Programming\\IFSP\\SWII6.TP03\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Giselle\\Programming\\IFSP\\SWII6.TP03\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T21:22:41.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ProdutoController.cs",
               "DocumentMoniker": "C:\\Users\\Giselle\\Programming\\IFSP\\SWII6.TP03\\Controllers\\ProdutoController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProdutoController.cs",
               "ToolTip": "C:\\Users\\Giselle\\Programming\\IFSP\\SWII6.TP03\\Controllers\\ProdutoController.cs",
               "RelativeToolTip": "Controllers\\ProdutoController.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAIwCsAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T17:09:30.759Z",
+              "WhenOpened": "2024-11-12T21:13:09.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20241112210653_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Giselle\\Programming\\IFSP\\SWII6.TP03\\Migrations\\20241112210653_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241112210653_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Giselle\\Programming\\IFSP\\SWII6.TP03\\Migrations\\20241112210653_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20241112210653_InitialCreate.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T21:06:54.333Z",
               "EditorCaption": ""
             },
             {
@@ -78,74 +96,22 @@
               "RelativeDocumentMoniker": "Views\\Produto\\Index.cshtml",
               "ToolTip": "C:\\Users\\Giselle\\Programming\\IFSP\\SWII6.TP03\\Views\\Produto\\Index.cshtml",
               "RelativeToolTip": "Views\\Produto\\Index.cshtml",
-              "ViewState": "AgIAABEAAAAAAAAAAAAYwBYAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-12T17:15:15.648Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Produto.cs",
-              "DocumentMoniker": "C:\\Users\\Giselle\\Programming\\IFSP\\SWII6.TP03\\Models\\Produto.cs",
-              "RelativeDocumentMoniker": "Models\\Produto.cs",
-              "ToolTip": "C:\\Users\\Giselle\\Programming\\IFSP\\SWII6.TP03\\Models\\Produto.cs",
-              "RelativeToolTip": "Models\\Produto.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T16:46:46.691Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Giselle\\Programming\\IFSP\\SWII6.TP03\\Views\\Produto\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Produto\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Giselle\\Programming\\IFSP\\SWII6.TP03\\Views\\Produto\\Create.cshtml",
-              "RelativeToolTip": "Views\\Produto\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-12T17:17:38.64Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Giselle\\Programming\\IFSP\\SWII6.TP03\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Giselle\\Programming\\IFSP\\SWII6.TP03\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAkwA8AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T16:34:51.628Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Giselle\\Programming\\IFSP\\SWII6.TP03\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\Giselle\\Programming\\IFSP\\SWII6.TP03\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-12T16:38:13.841Z",
+              "WhenOpened": "2024-11-12T20:59:20.787Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Giselle\\Programming\\IFSP\\SWII6.TP03\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Giselle\\Programming\\IFSP\\SWII6.TP03\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABWAAAAAAAAAA==",
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Giselle\\Programming\\IFSP\\SWII6.TP03\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Giselle\\Programming\\IFSP\\SWII6.TP03\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T16:35:56.107Z",
+              "WhenOpened": "2024-11-12T20:57:30.182Z",
               "EditorCaption": ""
             }
           ]

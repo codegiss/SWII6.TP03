@@ -14,7 +14,9 @@ namespace SWII6.TP03.Controllers
         }
         public async Task<IActionResult> Index()
         {
-            return View(await _context.Produtos.ToListAsync());
+            ViewData["Title"] = "Lista de Produtos";
+            var produtos = await _context.Produtos.ToListAsync();
+            return View(produtos);
         }
 
         public IActionResult Create()
@@ -24,7 +26,7 @@ namespace SWII6.TP03.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Nome,Descricao,Preco,QuantidadeEmEstoque")] Produto produto)
+        public async Task<IActionResult> Create([Bind("Nome,Descricao,Preco,QuantidadeEmEstoque")] Produtos produto)
         {
             if (ModelState.IsValid)
             {
@@ -51,7 +53,7 @@ namespace SWII6.TP03.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,Nome,Descricao,Preco,QuantidadeEstoque")]  Produto produto)
+        public async Task<IActionResult> Edit(int id, [Bind("Id,Nome,Descricao,Preco,QuantidadeEstoque")]  Produtos produto)
         {
             if (id != produto.Id)
             {

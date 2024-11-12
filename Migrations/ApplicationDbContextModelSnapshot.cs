@@ -18,7 +18,7 @@ namespace SWII6.TP03.Migrations
                 .HasAnnotation("ProductVersion", "8.0.10")
                 .HasAnnotation("Relational:MaxIdentifierLength", 64);
 
-            modelBuilder.Entity("SWII6.TP03.Models.Produto", b =>
+            modelBuilder.Entity("SWII6.TP03.Models.Produtos", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()

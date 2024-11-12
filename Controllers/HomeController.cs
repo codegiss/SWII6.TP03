@@ -15,7 +15,7 @@ namespace SWII6.TP03.Controllers
 
         public IActionResult Index()
         {
-            return View();
+            return RedirectToAction("Index", "Produto");
         }
 
         public IActionResult Privacy()

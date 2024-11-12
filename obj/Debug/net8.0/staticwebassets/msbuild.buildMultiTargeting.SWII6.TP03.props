@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SWII6.TP03.props" />
+</Project>
