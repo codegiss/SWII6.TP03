@@ -1,0 +1,40 @@
+﻿@model SWII6.TP03.Models.Produto
+
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Editar Produto";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<form asp-action="Edit" method="post">
+    <!-- value="@Model dot Nome" -->
+    <div class="form-group">
+        <label for="Nome">Nome</label>
+        <input type="text" class="form-control" id="Nome" name="Nome" value="@Model.Nome" required />
+    </div>
+
+    <div class="form-group">
+        <label for="Descricao">Descrição</label>
+        <textarea class="form-control" id="Descricao" name="Descricao" rows="3" required>@Model.Descricao</textarea>
+    </div>
+
+    <div class="form-group">
+        <label for="Preco">Preço</label>
+        <input type="number" class="form-control" id="Preco" name="Preco" value="@Model.Preco" step="0.01" required />
+    </div>
+
+    <div class="form-group">
+        <label for="QuantidadeEstoque">Quantidade em Estoque</label>
+        <input type="number" class="form-control" id="QuantidadeEstoque" name="QuantidadeEstoque" value="@Model.QuantidadeEmEstoque" required />
+    </div>
+
+    <input type="hidden" name="Id" value="@Model.Id" /> <!-- Esconde o ID do produto -->
+
+    <div class="form-group">
+        <button type="submit" class="btn btn-primary">Salvar</button>
+        <a href="@Url.Action("Index", "Produto")" class="btn btn-secondary">Cancelar</a>
+    </div>
+</form>

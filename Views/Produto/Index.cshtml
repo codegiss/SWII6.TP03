@@ -1,0 +1,39 @@
+﻿@model IEnumerable<SWII6.TP03.Models.Produto>
+
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Lista de Produtos";
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Nome</th>
+            <th>Preço</th>
+            <th>Quantidade em Estoque</th>
+            <th>Ações</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var produto in Model)
+        {
+            <tr>
+                <td>@produto.Nome</td>
+                <td>@produto.Preco</td>
+                <td>@produto.QuantidadeEmEstoque</td>
+                <td>
+                    <a href="@Url.Action("Details", "Produto", new { id = produto.Id })">Detalhes</a> |
+                    <a href="@Url.Action("Edit", "Produto", new { id = produto.Id })">Editar</a> |
+                    <a href="@Url.Action("Delete", "Produto", new { id = produto.Id })">Excluir</a>
+                </td>
+                <td>
+                    <a href="@Url.Action("Edit", "Produto", new { id = produto.Id })" class="btn btn-primary">Editar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a href="@Url.Action("Create", "Produto")" class="btn btn-primary">Cadastrar Novo Produto</a>
